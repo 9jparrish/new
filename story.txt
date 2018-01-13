@@ -1,4 +1,7 @@
-this is my story 
+Second Alternate
+
+
+this is our story 
 of creating a new repo
 the end
 add chapter one
