@@ -2,3 +2,4 @@ this is my story
 of creating a new repo
 the end
 add chapter one
+add chapter two
